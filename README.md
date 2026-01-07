@@ -1,2 +1,3 @@
-# motika-vibes-platform
-Motika Vibes ni jukwaa la kidijitali lenye uwezo wa kubadilika na kupanuka, lililoundwa kusaidia kutengeneza tovuti, programu (apps), michezo (games), biashara mtandaoni, mifumo ya malipo, APIs, na bidhaa nyingine za kidijitali kwa sasa na baadaye. Limetengenezwa kwa kutumia teknolojia za kisasa ili kuhakikisha kasi, usalama, na ukuaji wa muda mref
+# Bongo Vibes App
+
+This repository contains the starter code for the Bongo Vibes platform, including backend and frontend components, as well as configuration, assets, and scripts.
