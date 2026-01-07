@@ -1,0 +1,6 @@
+# middleware folder
+middleware/
+├─ authMiddleware.js
+├─ roleMiddleware.js
+├─ errorMiddleware.js
+└─ rateLimitMiddleware.js
